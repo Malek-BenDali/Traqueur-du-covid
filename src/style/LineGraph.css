@@ -1,0 +1,10 @@
+.range{
+    width: 100%;
+    height: 12.8px;
+    cursor: pointer;
+  }
+
+.range__legend{
+    font-variant: inherit;
+    text-align: center;
+}
